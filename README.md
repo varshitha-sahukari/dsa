@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/varshitha-sahukari/dsa/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/varshitha-sahukari/dsa/tree/main/0198-house-robber/) | Medium |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/varshitha-sahukari/dsa/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
@@ -129,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
