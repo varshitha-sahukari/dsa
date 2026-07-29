@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0190-reverse-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
