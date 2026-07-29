@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -260,4 +265,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
