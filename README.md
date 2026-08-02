@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/varshitha-sahukari/dsa/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/varshitha-sahukari/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/varshitha-sahukari/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/varshitha-sahukari/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0205-isomorphic-strings](https://github.com/varshitha-sahukari/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
