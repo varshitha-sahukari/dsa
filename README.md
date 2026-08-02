@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/varshitha-sahukari/dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/varshitha-sahukari/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
