@@ -1,17 +1,13 @@
 class Solution {
-    static void bfs(int i,int[][] isConnected,boolean[] isVisited){
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(i);
+    static void dfs(int i,int[][] isConnected,boolean[] isVisited){
+        
         isVisited[i] = true;
-        while(!q.isEmpty()){
-            int node = q.poll();
-            for(int n=0;n<isConnected.length;n++){
-                if(isConnected[node][n] == 1 && !isVisited[n]){
-                    isVisited[n]= true;
-                    q.offer(n);
-                }
+
+        for(int n=0;n<isConnected.length;n++){
+            if(isConnected[i][n] == 1 && !isVisited[n]){
+                dfs(n,isConnected,isVisited);
+                    
             }
-            
         }
 
     }
@@ -23,7 +19,7 @@ class Solution {
         int count=0;
         for(int i=0;i<v;i++){
             if(!isVisited[i]){
-                bfs(i,isConnected,isVisited);
+                dfs(i,isConnected,isVisited);
                 count++;
             }
         }
