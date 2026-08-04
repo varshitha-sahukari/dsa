@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/varshitha-sahukari/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/varshitha-sahukari/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/varshitha-sahukari/dsa/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/varshitha-sahukari/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/varshitha-sahukari/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -318,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshitha-sahukari/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/varshitha-sahukari/dsa/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
