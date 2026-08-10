@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/varshitha-sahukari/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
