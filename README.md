@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/varshitha-sahukari/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitha-sahukari/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshitha-sahukari/dsa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
