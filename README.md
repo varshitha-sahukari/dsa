@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/varshitha-sahukari/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshitha-sahukari/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
