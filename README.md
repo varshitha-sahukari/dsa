@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0237-delete-node-in-a-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
