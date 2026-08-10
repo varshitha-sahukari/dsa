@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/varshitha-sahukari/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/varshitha-sahukari/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -346,4 +349,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/varshitha-sahukari/dsa/tree/main/0207-course-schedule/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
