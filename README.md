@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/varshitha-sahukari/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/varshitha-sahukari/dsa/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/varshitha-sahukari/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/varshitha-sahukari/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/varshitha-sahukari/dsa/tree/main/0344-reverse-string/) | Easy |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/varshitha-sahukari/dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/varshitha-sahukari/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
