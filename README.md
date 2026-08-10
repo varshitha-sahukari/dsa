@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/varshitha-sahukari/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitha-sahukari/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshitha-sahukari/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
