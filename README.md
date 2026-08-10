@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/varshitha-sahukari/dsa/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/varshitha-sahukari/dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/varshitha-sahukari/dsa/tree/main/0739-daily-temperatures/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
