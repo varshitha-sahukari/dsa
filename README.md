@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/varshitha-sahukari/dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/varshitha-sahukari/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshitha-sahukari/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -185,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
