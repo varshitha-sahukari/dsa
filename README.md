@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/varshitha-sahukari/dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0338-counting-bits/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -398,4 +402,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/varshitha-sahukari/dsa/tree/main/0069-sqrtx/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
