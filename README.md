@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/varshitha-sahukari/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/varshitha-sahukari/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/varshitha-sahukari/dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/varshitha-sahukari/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/varshitha-sahukari/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
