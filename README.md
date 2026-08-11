@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/varshitha-sahukari/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitha-sahukari/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
