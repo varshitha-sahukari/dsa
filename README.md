@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshitha-sahukari/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshitha-sahukari/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/varshitha-sahukari/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/varshitha-sahukari/dsa/tree/main/0724-find-pivot-index/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
