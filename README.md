@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/varshitha-sahukari/dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/varshitha-sahukari/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/varshitha-sahukari/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/varshitha-sahukari/dsa/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/varshitha-sahukari/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -421,5 +423,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/varshitha-sahukari/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
