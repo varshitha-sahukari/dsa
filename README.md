@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/varshitha-sahukari/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/varshitha-sahukari/dsa/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshitha-sahukari/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/varshitha-sahukari/dsa/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/varshitha-sahukari/dsa/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/varshitha-sahukari/dsa/tree/main/0198-house-robber/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/varshitha-sahukari/dsa/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/varshitha-sahukari/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/varshitha-sahukari/dsa/tree/main/0860-lemonade-change/) | Easy |
