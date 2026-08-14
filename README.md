@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/varshitha-sahukari/dsa/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/varshitha-sahukari/dsa/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/varshitha-sahukari/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/varshitha-sahukari/dsa/tree/main/0733-flood-fill/) | Easy |
