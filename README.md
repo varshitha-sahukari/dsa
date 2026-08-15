@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/varshitha-sahukari/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/varshitha-sahukari/dsa/tree/main/0207-course-schedule/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/varshitha-sahukari/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/varshitha-sahukari/dsa/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/varshitha-sahukari/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -494,4 +497,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0020-valid-parentheses/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
