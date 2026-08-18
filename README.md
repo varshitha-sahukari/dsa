@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/varshitha-sahukari/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/varshitha-sahukari/dsa/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/varshitha-sahukari/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/varshitha-sahukari/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
@@ -401,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/varshitha-sahukari/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
