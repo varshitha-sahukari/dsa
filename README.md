@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/varshitha-sahukari/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/varshitha-sahukari/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/varshitha-sahukari/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/varshitha-sahukari/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/varshitha-sahukari/dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
