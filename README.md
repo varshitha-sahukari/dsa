@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/varshitha-sahukari/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/varshitha-sahukari/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/varshitha-sahukari/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshitha-sahukari/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/varshitha-sahukari/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitha-sahukari/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Pigeonhole Principle
