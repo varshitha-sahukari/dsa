@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitha-sahukari/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/varshitha-sahukari/dsa/tree/main/1046-last-stone-weight/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/varshitha-sahukari/dsa/tree/main/2029-stone-game-ix/) | Medium |
 ## Memoization
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-sahukari/dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Breadth-First Search
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/varshitha-sahukari/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitha-sahukari/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/varshitha-sahukari/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitha-sahukari/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
