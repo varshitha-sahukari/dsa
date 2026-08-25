@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshitha-sahukari/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varshitha-sahukari/dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-sahukari/dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0997-find-the-town-judge](https://github.com/varshitha-sahukari/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-sahukari/dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
