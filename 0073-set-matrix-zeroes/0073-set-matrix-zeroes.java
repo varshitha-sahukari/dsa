@@ -8,7 +8,6 @@ class Solution {
 
         int i = 0;
 
-        // Check if first row has zero
         while (i < c) {
             if (matrix[0][i] == 0) {
                 fr = true;
@@ -18,7 +17,6 @@ class Solution {
 
         i = 0;
 
-        // Check if first column has zero
         while (i < r) {
             if (matrix[i][0] == 0) {
                 fc = true;
@@ -26,7 +24,6 @@ class Solution {
             i++;
         }
 
-        // Use first row/column as markers
         i = 1;
 
         while (i < r) {
@@ -43,7 +40,6 @@ class Solution {
             i++;
         }
 
-        // Set rows to zero
         i = 1;
 
         while (i < r) {
@@ -58,7 +54,6 @@ class Solution {
             i++;
         }
 
-        // Set columns to zero
         int j = 1;
 
         while (j < c) {
@@ -73,7 +68,6 @@ class Solution {
             j++;
         }
 
-        // First row
         if (fr) {
             j = 0;
 
@@ -83,7 +77,6 @@ class Solution {
             }
         }
 
-        // First column
         if (fc) {
             i = 0;
 
