@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/varshitha-sahukari/dsa/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/varshitha-sahukari/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/varshitha-sahukari/dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/varshitha-sahukari/dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/varshitha-sahukari/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/varshitha-sahukari/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/varshitha-sahukari/dsa/tree/main/2029-stone-game-ix/) | Medium |
 ## String Matching
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
