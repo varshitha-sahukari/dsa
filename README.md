@@ -629,4 +629,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
