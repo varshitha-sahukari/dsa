@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshitha-sahukari/dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/varshitha-sahukari/dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/varshitha-sahukari/dsa/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitha-sahukari/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitha-sahukari/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/varshitha-sahukari/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/varshitha-sahukari/dsa/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/varshitha-sahukari/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1552-magnetic-force-between-two-balls](https://github.com/varshitha-sahukari/dsa/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
