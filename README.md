@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/varshitha-sahukari/dsa/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/varshitha-sahukari/dsa/tree/main/0704-binary-search/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0542-01-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/varshitha-sahukari/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/varshitha-sahukari/dsa/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/varshitha-sahukari/dsa/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/varshitha-sahukari/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/varshitha-sahukari/dsa/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/varshitha-sahukari/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0542-01-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/varshitha-sahukari/dsa/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/varshitha-sahukari/dsa/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
