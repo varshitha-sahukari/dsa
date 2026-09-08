@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/varshitha-sahukari/dsa/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/varshitha-sahukari/dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/varshitha-sahukari/dsa/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/varshitha-sahukari/dsa/tree/main/0205-isomorphic-strings/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/varshitha-sahukari/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/varshitha-sahukari/dsa/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/varshitha-sahukari/dsa/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/varshitha-sahukari/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/varshitha-sahukari/dsa/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshitha-sahukari/dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/varshitha-sahukari/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/varshitha-sahukari/dsa/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/varshitha-sahukari/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/varshitha-sahukari/dsa/tree/main/0200-number-of-islands/) | Medium |
@@ -655,5 +658,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/varshitha-sahukari/dsa/tree/main/0127-word-ladder/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
