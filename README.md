@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/varshitha-sahukari/dsa/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/varshitha-sahukari/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/varshitha-sahukari/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/varshitha-sahukari/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/varshitha-sahukari/dsa/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/varshitha-sahukari/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/varshitha-sahukari/dsa/tree/main/0735-asteroid-collision/) | Medium |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/varshitha-sahukari/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/varshitha-sahukari/dsa/tree/main/0739-daily-temperatures/) | Medium |
@@ -530,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/varshitha-sahukari/dsa/tree/main/0055-jump-game/) | Medium |
+| [0402-remove-k-digits](https://github.com/varshitha-sahukari/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/varshitha-sahukari/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/varshitha-sahukari/dsa/tree/main/0621-task-scheduler/) | Medium |
