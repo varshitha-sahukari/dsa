@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/varshitha-sahukari/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/varshitha-sahukari/dsa/tree/main/2029-stone-game-ix/) | Medium |
 | [3870-count-commas-in-range](https://github.com/varshitha-sahukari/dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/varshitha-sahukari/dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/varshitha-sahukari/dsa/tree/main/0394-decode-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/1922-count-good-numbers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
