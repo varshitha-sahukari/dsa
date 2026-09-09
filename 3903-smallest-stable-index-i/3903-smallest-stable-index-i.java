@@ -3,21 +3,21 @@ class Solution {
 
         int n = nums.length;
 
+        int[] suffixMin = new int[n];
+
+        suffixMin[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
+        }
+
+        int maxLeft = Integer.MIN_VALUE;
+
         for (int i = 0; i < n; i++) {
 
-            int maxLeft = nums[0];
+            maxLeft = Math.max(maxLeft, nums[i]);
 
-            for (int j = 0; j <= i; j++) {
-                maxLeft = Math.max(maxLeft, nums[j]);
-            }
-
-            int minRight = nums[i];
-
-            for (int j = i; j < n; j++) {
-                minRight = Math.min(minRight, nums[j]);
-            }
-
-            if (maxLeft - minRight <= k) {
+            if (maxLeft - suffixMin[i] <= k) {
                 return i;
             }
         }
