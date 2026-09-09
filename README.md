@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/varshitha-sahukari/dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/varshitha-sahukari/dsa/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/varshitha-sahukari/dsa/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/varshitha-sahukari/dsa/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/varshitha-sahukari/dsa/tree/main/0189-rotate-array/) | Medium |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/varshitha-sahukari/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/varshitha-sahukari/dsa/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/varshitha-sahukari/dsa/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshitha-sahukari/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
