@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/varshitha-sahukari/dsa/tree/main/2029-stone-game-ix/) | Medium |
 | [3870-count-commas-in-range](https://github.com/varshitha-sahukari/dsa/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/varshitha-sahukari/dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
