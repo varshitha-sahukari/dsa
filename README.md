@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/varshitha-sahukari/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/varshitha-sahukari/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0045-jump-game-ii/) | Medium |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
