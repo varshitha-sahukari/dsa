@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/varshitha-sahukari/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/varshitha-sahukari/dsa/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/varshitha-sahukari/dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/varshitha-sahukari/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
+| [0216-combination-sum-iii](https://github.com/varshitha-sahukari/dsa/tree/main/0216-combination-sum-iii/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
