@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/varshitha-sahukari/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/varshitha-sahukari/dsa/tree/main/0085-maximal-rectangle/) | Hard |
+| [0090-subsets-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/varshitha-sahukari/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshitha-sahukari/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/varshitha-sahukari/dsa/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0191-number-of-1-bits/) | Easy |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0040-combination-sum-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0090-subsets-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0126-word-ladder-ii/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
