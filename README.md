@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/varshitha-sahukari/dsa/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0542-01-matrix](https://github.com/varshitha-sahukari/dsa/tree/main/0542-01-matrix/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/varshitha-sahukari/dsa/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitha-sahukari/dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/varshitha-sahukari/dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/varshitha-sahukari/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/varshitha-sahukari/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/varshitha-sahukari/dsa/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/varshitha-sahukari/dsa/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/varshitha-sahukari/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/varshitha-sahukari/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/varshitha-sahukari/dsa/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/varshitha-sahukari/dsa/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/varshitha-sahukari/dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/varshitha-sahukari/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/varshitha-sahukari/dsa/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/varshitha-sahukari/dsa/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/varshitha-sahukari/dsa/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -659,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
