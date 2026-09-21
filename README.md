@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varshitha-sahukari/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varshitha-sahukari/dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshitha-sahukari/dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/varshitha-sahukari/dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/varshitha-sahukari/dsa/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/varshitha-sahukari/dsa/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/varshitha-sahukari/dsa/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/varshitha-sahukari/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/varshitha-sahukari/dsa/tree/main/1922-count-good-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/varshitha-sahukari/dsa/tree/main/2029-stone-game-ix/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/varshitha-sahukari/dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/varshitha-sahukari/dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshitha-sahukari/dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
