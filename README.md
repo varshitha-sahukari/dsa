@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/varshitha-sahukari/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshitha-sahukari/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshitha-sahukari/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
