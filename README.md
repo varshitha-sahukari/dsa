@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/varshitha-sahukari/dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/varshitha-sahukari/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/varshitha-sahukari/dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/varshitha-sahukari/dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varshitha-sahukari/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/varshitha-sahukari/dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/varshitha-sahukari/dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/varshitha-sahukari/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshitha-sahukari/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/varshitha-sahukari/dsa/tree/main/0031-next-permutation/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/varshitha-sahukari/dsa/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/varshitha-sahukari/dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/varshitha-sahukari/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/varshitha-sahukari/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitha-sahukari/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
